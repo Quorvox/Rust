@@ -1,0 +1,15 @@
+[package]
+name = "quor-presence"
+version = "0.1.0"
+edition = "2024"
+
+[dependencies]
+anyhow = "1.0.104"
+clap = { version = "4.6.7", features = ["derive"] }
+discord-rich-presence = "1.1.0"
+eframe = { version = "0.37.0", default-features = false, features = ["glow", "default_fonts"] }
+serde = { version = "1.0.229", features = ["derive"] }
+toml = "1.2.1"
+
+[dev-dependencies]
+tempfile = "3.27.0"

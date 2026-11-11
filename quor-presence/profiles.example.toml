@@ -1,0 +1,18 @@
+# копию этого файла положи как profiles.toml и впиши свой Application ID
+# (discord.com/developers → New Application → скопировать Application ID)
+
+[vscode]
+app_id = "000000000000000000"
+name = "Visual Studio Code"
+details = "Editing main.rs"
+state = "Workspace: quor-presence"
+hours = 20
+large_image = "vscode"
+large_text = "Visual Studio Code"
+
+[minecraft]
+app_id = "000000000000000000"
+details = "Survival, day 42"
+state = "Exploring caves"
+hours = 150
+large_image = "minecraft"
