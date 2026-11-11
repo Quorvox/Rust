@@ -1,0 +1,18 @@
+# домены телеметрии Microsoft, по одному на строку
+# домены обновлений (windowsupdate, delivery) сюда НЕ добавлять, иначе сломается Windows Update
+vortex.data.microsoft.com
+vortex-win.data.microsoft.com
+telemetry.microsoft.com
+watson.telemetry.microsoft.com
+watson.microsoft.com
+oca.telemetry.microsoft.com
+sqm.telemetry.microsoft.com
+df.telemetry.microsoft.com
+settings-win.data.microsoft.com
+reports.wes.df.telemetry.microsoft.com
+services.wes.df.telemetry.microsoft.com
+telemetry.urs.microsoft.com
+redir.metaservices.microsoft.com
+choice.microsoft.com
+statsfe2.ws.microsoft.com
+telemetry.appex.bing.net
